@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(255, 234, 197);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+nav ul li{
+    color: rgb(108, 78, 49);
+    display: inline;
+    font-size: 20px;
+    margin-right: 10px;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+     color: rgb(108, 78, 49);
+}
+
+td{
+    color: rgb(108, 78, 49);
+}
+p{
+    color: rgb(108, 78, 49);
+    font-size: 20px;
+}
